@@ -1,0 +1,3 @@
+--------
+The syntax to run the command is "history". The History command will show the last 5 or less commands that have been entered into the command line. Users can enter the number of a command from the list to rerun a command. To exit this command enter "-1".
+--------

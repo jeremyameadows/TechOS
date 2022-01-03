@@ -1,0 +1,3 @@
+--------
+This feature will allow the user to add admin permissions to a user. The syntax for this command would be "add admin". After the call, the user can expect to be asked to enter the username for the desired user to change.
+--------

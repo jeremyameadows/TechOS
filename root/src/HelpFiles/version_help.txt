@@ -1,0 +1,3 @@
+--------
+The Version command will display to the user the current running version of the operating system along with the publish date and authors. The syntax for this feature is "version".
+--------

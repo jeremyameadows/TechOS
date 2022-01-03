@@ -1,0 +1,3 @@
+--------
+This feature will allow the user to delete a process by entering its name. The syntax for this command would be "delete pcb". If the name input does not match any of the current processes, the user will be alerted that their input is invalid.
+--------

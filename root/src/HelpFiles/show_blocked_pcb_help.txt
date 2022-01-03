@@ -1,0 +1,3 @@
+--------
+This feature will allow the user to see all the currently blocked processes. The syntax for this command would be "show blocked pcb". After the call, the user can expect to see all of the currently blocked processes. A possible error to be seen here is "invalid syntax".
+--------

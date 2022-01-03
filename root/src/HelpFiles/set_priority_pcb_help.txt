@@ -1,0 +1,3 @@
+--------
+This feature will allow the user to set a priority to their desired process. The syntax for this command would be "set priority pcb". After the call, the user can expect to be prompted to enter the name of the process they wish to set the priority of followed by the priority they wish to assign to the process. If the process name does not match any process or the priorty is not in the range of 1-9, the system will alert the user that their input was invalid.
+--------

@@ -1,0 +1,3 @@
+--------
+This feature will allow the user to remove an existing user. The syntax for this command would be "remove user". After the call, the user can expect to be asked to enter the username of the user to remove.
+--------

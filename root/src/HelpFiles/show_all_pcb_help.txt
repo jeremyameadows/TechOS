@@ -1,0 +1,3 @@
+--------
+This feature will allow the user to display all the current processes which is inclusive to all the different statuses. The syntax for this command would be "show all pcb". After the call, the user can expect to see all the processes. A possible error to be seen is "invalid syntax".
+--------

@@ -1,0 +1,30 @@
+--------
+The help feature will allow the user to learn each individual command within the operating system by giving the user a brief description of the command.
+
+List of syntax:
+display date
+display time
+change date
+change time format
+help
+version
+history
+quit
+block pcb
+create pcb
+resume pcb
+set priority pcb
+show all pcb
+show blocked pcb
+show pcb
+show ready pcb
+suspend pcb
+dispatch
+view directory
+change directory
+create folder
+remove folder
+create file
+remove file
+logout
+--------

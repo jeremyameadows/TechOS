@@ -1,0 +1,3 @@
+--------
+The Display Time command will display to the user the current set time of the operating system. The syntax to call this feature is "display time". The system will then display the time in either standard or military time.
+--------

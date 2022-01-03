@@ -1,0 +1,3 @@
+--------
+The Change Date command will allow the user to change the set date of the operating system. The syntax to call this feature is "change date". Following the call, the user will be asked to enter the year, month and day. The user must enter valid values for each task, or the user will be prompted to reenter a valid value.
+--------

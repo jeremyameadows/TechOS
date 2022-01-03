@@ -1,0 +1,3 @@
+--------
+This feature allows the user to view a specific process based on the input name. The syntax for this command would be "show pcb". After the call, the user can expect to be prompted to enter the name of the process they wish to show. If the name of the process does not match any current processes, the system will alert the user that there was an error with that process name.
+--------

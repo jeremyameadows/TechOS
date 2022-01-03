@@ -1,0 +1,3 @@
+--------
+This feature allows the user to unblock a process based on name input. The syntax for this command would be "unblock pcb". After the call, the user can expect to be prompted to enter the name of they process they wish to unblock. If the name of the process does not match any of the processes currently in the blocked queue, the system will alert the user that their input was invalid.
+--------

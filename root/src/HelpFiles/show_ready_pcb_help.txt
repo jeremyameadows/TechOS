@@ -1,0 +1,3 @@
+--------
+This feature allows the user to see all processes in the ready queue. The syntax for this command would be "show ready pcb". After the call, the user can expect to see all of the processes within the ready queue. A possible error that can be seen here is "invalid syntax" if the command is entered wrong.
+--------

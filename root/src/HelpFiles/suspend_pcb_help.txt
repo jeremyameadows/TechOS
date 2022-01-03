@@ -1,0 +1,3 @@
+--------
+This feature allows the user to suspend a specific process based on name input. The syntax for this command would be "suspend pcb". After the call, the user can expect to be prompted to enter the name of the process they wish to suspend. If the name of the process does not match any of the current processes, the system will alert the user that their input was invalid.
+--------

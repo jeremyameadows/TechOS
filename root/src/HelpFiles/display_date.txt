@@ -1,0 +1,3 @@
+--------
+The Display Date command will display to the user the current set date for the operating system. The syntax to call this feature is "display date". The system will then display the week day, month, day and year of the system.
+--------

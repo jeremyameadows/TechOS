@@ -1,0 +1,3 @@
+--------
+This feature will allow the user to execute all processes and display when the processes get interrupted or they finish execution. The syntax for this command would be "dispatch". No additional user input is expected.
+--------

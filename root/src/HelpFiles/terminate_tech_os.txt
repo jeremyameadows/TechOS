@@ -1,0 +1,3 @@
+--------
+The Terminate Tech OS command will instruct the operating system to terminate and exit. The syntax for this feature is "quit". After calling this, the user will be asked to confirm decision to quit by entering either y (yes) or n (no).
+--------
